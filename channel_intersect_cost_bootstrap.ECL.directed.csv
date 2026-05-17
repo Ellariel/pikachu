@@ -1,0 +1,2 @@
+timestamp,edges_intersection_rate,lci_intersection_rate,median_intersection_rate,uci_intersection_rate,matched_paths,total_paths
+20190121,0.9616427859934105,0.8790028740329083,0.9616427859934105,1.0,728.5,742.0
